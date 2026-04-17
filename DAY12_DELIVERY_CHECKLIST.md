@@ -1,9 +1,8 @@
 #  Delivery Checklist — Day 12 Lab Submission
 
-> **Student Name:** _________________________  
-> **Student ID:** _________________________  
-> **Date:** _________________________
-
+> **Student Name:** Pham Van Thanh
+> **Student ID:** 2A202600272
+> **Date:** 17/4/26
 ---
 
 ##  Submission Requirements
